@@ -1,0 +1,58 @@
+Planner for remote learning
+
+
+-Organization
+	
+	-classes, subject, teacher, times
+		-custom notes for each
+
+-Schedule feature
+
+	-attendence site
+
+	-meeting site and time
+		-custom notes for both
+
+-ClassWork feature
+
+	-Pin feature
+
+	-Create works w/ date/time
+		-custom notes
+
+	-Repeat
+		-Repeat daily
+		-Custom repeat (input on calendar)
+		-Repeat every x days from set day
+		-Repeat every x days of a week
+
+	-Custom reminder - x hours before due time
+		-ability to assign to repeat
+
+	-Cross out and archive when done
+
+	-Custom colors
+
+
+-Homework feature
+
+	-Pin feature
+
+	-Create homeworks w/ date/time
+		-custom notes
+
+	-Due soon at top of list -> sorted from due soon to due later
+
+	-Custom reminder - x hours before due time
+
+	-Cross out and archive when done
+
+	-Repeat
+		-Repeat daily
+		-Custom repeat (input on calendar)
+		-Repeat every x days from set day
+		-Repeat every x days of a week
+
+	-Custom colors
+
+-Project feature
