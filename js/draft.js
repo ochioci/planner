@@ -5,11 +5,11 @@ function Subject()
     //daily, weekdays, weekends, alternating weedaays, alternating, custom
 
     this.tasks = {
-        attendence = new attendence(this.schedule), //make this occur everyday the user has this subject (schedule)
-        homeworks = [], 
-        classworks = [],
-        projects = [],
-        test(s) = []
+        attendence = new Attendence(this.schedule), //make this occur everyday the user has this subject (schedule)
+        homeworks = new Homeworks(null, "4/20");
+        classworks = new Classworks(this.schedule, "4/20");
+        projects = new Projects(null, "4/20");
+        test(s) = new Tests("4/20");
     };
 }
 
