@@ -1,4 +1,4 @@
-/* AN EXTREMELY ROUGH DRAFT OF WHAT IT MAYBE WILLL LOOK LIKE. KEEP THAT IN MIND AS YOUR EYES BLEED READING IT
+// AN EXTREMELY ROUGH DRAFT OF WHAT IT MAYBE WILLL LOOK LIKE. KEEP THAT IN MIND AS YOUR EYES BLEED READING IT
 function Subject()
 {
     this.schedule = daily; //[monday, tuesday, wednesday, thursday, friday]
@@ -41,4 +41,3 @@ function Tests(due)
     this.notes = [custom note1, custom note2];
     this.due = due;
 }
-*/
